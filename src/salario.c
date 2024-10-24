@@ -1,5 +1,6 @@
 #include <stdio.h>
     int main(){
+        
         float Sbruto, Sliquido, DvaleT, Dinss, Dfgts, Tdesconto;
 
         printf("Digite seu sálario total:R$ \n");

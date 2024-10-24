@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main (){
+
     int num1;
     int num2;
     int soma;
@@ -7,6 +8,7 @@ int main (){
     int multiplicar;
     int dividir;
     int resto;
+    
     printf("Digite um número:\n");
     scanf("%d",&num1);
     printf("Digiite outro número:\n");
